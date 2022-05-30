@@ -1,4 +1,3 @@
 # Python Fundamentals. Project. The Boredless Tourist
 
-The Boredless Tourist is an online application giving you the power to find the parts of the city that fit the pace of your life. The Boredless Tourist run a recommendation engine using Python. We first evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that we think they’ll be engaged by.
-
+The Boredless Tourist is an online application that allows you to identify portions of the city that suit your lifestyle. The Boredless Tourist uses Python to run a recommendation engine. We assess a person's interests before making recommendations in their area for events, restaurants, and historical sites that we believe may pique their interest.
